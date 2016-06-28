@@ -13,3 +13,20 @@ h3{
 	font-weight: 200;
 	font-family: 'Georgia', 'Times New Roman', sans-serif;
 }
+li{
+	display: block;}
+
+div.ex1 {
+		position: static;
+		max-width: 500px;
+		margin: auto;
+		border: none;
+	}
+
+div.ex2 {
+	position:static;
+	max-width: 500px;
+	margin: auto;
+	border:none;
+
+}
